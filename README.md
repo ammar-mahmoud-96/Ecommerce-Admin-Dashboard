@@ -4,6 +4,9 @@ A React + Vite + TypeScript admin dashboard for the
 [Shop.co storefront](https://github.com/ammar-mahmoud-96/Ecommerce). It reads the same Firebase
 project as the storefront and renders orders, customers and product sales from Cloud Firestore.
 
+## 📸 Screenshots
+<img  src="https://github.com/ammar-mahmoud-96/Ecommerce-Admin-Dashboard/blob/main/src/assets/homePage.png?raw=true"/>
+
 ## Features
 
 - Admin-only sign in (Firebase email/password + `admins/{uid}` allowlist enforced by Firestore rules).
